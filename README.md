@@ -25,15 +25,22 @@ import 'cx-ui/style.css';
 Simple form with `TextField` and `Button components`
 
 ```js
-import React from 'react';
+import React, { Component } from 'react';
 import { TextField, Button } from 'cx-ui';
 
-class MyForm extends React.Component {
+class MyForm extends Component {
+
+    submitForm = (e) => {
+
+        e.preventDefault();
+
+        // do some logic
+    }
 
     render() {
 
         return(
-            <form>
+            <form onSubmit={this.submitForm}>
                 <div>
                     <TextField text={this.state.text} value={this.state.value} />
                 </div>
