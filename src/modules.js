@@ -10,10 +10,10 @@ module.export = SelectableList.default ? SelectableList.default : SelectableList
 import Tabs from './components/tabs/tabs';
 module.export = Tabs.default ? Tabs.default : Tabs;
 
-import TreeView from './components/tree/treeView';
+import TreeView from './components/treeView/treeView';
 module.export = TreeView.default ? TreeView.default : TreeView;
 
-import SideBar from './components/bars/sideBar';
+import SideBar from './components/sideBar/sideBar';
 module.export = SideBar.default ? SideBar.default : SideBar;
 
 import DatePicker from './components/date/datePicker';
