@@ -16,13 +16,14 @@ npm install --save cx-ui
 
 <h2 align='center'>Usage</h2>
 
+Simple form with TextField and Button
+
 ```js
 
 import React from 'react';
 import { TextField, Button } from 'cx-ui';
 
 class MyForm extends React.Component {
-
 
     render() {
 
