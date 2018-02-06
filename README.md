@@ -10,12 +10,11 @@
 <h2 align='center'>Install</h2>
 
 ```bash
-# for webpack 3
 npm install --save cx-ui
 ```
 <h2 align='center'>Getting started</h2>
 
-In order to apply the style there's a css file that must be imported
+In order to apply the style there's a css file that must be imported in the root component of the application
 
 ```js
 import 'cx-ui/style.css';
