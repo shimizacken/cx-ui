@@ -11,9 +11,5 @@
 
 ```bash
 # for webpack 3
-npm install --save-dev extract-text-webpack-plugin
-# for webpack 2
-npm install --save-dev extract-text-webpack-plugin@2.1.2
-# for webpack 1
-npm install --save-dev extract-text-webpack-plugin@1.0.1
+npm install --save cx-ui
 ```
