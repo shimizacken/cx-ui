@@ -59,4 +59,5 @@ class MyForm extends Component {
 
 |Name|Description|
 |:--:|:----------|
-|**Button**|General `Button`. Typically use as submit forms button|
+|**Button**|Typically use as submit forms button|
+|**SideBar**|Main web portal side bar|
