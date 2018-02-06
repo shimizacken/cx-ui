@@ -58,5 +58,5 @@ class MyForm extends Component {
 <h2 align='center'>Components</h2>
 
 |Name|Description|
-|:--:|:--:|:----------|
-|Button|`{String}`|General `Button`. Typically use as submit forms button|
+|:--:|:----------|
+|**Button**|General `Button`. Typically use as submit forms button|
