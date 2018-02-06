@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 
-export default class TextField extends PureComponent {
+export default class SideBar extends PureComponent {
 
     render() {
 
