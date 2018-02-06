@@ -62,3 +62,8 @@ class MyForm extends Component {
 |**`Button`**|Typically use as submit forms button|
 |**`TreeView`**|Main web portal side bar|
 |**`SideBar`**|Main web portal side bar|
+
+<h2 align='center'>Customizing the theme</h2>
+
+<h2 align='center'>Development guidelines</h2>
+
