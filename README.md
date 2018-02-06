@@ -67,3 +67,4 @@ class MyForm extends Component {
 
 <h2 align='center'>Development guidelines</h2>
 
+`TypeScript` support
