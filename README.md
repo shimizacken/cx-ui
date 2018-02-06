@@ -59,5 +59,6 @@ class MyForm extends Component {
 
 |Name|Description|
 |:--:|:----------|
-|**Button**|Typically use as submit forms button|
-|**SideBar**|Main web portal side bar|
+|**`Button`**|Typically use as submit forms button|
+|**`TreeView`**|Main web portal side bar|
+|**`SideBar`**|Main web portal side bar|
